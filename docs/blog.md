@@ -3,17 +3,17 @@
 home: true
 layout: BlogHome
 icon: fa-solid fa-house-crack
-title: 互联网小白
+title: 小小运维
 #heroImage: /logo.svg
-heroText: 互联网小白
-tagline: 盛年不重来，一日难再晨
-bgImage: https://img.newzone.top/home-bg-1.jpg
+heroText: 小小运维
+tagline: 摔倒了又怎样，至少我们还年轻
+bgImage: https://image-dog.pages.dev/file/234ca56e8adce0636cd23.jpg
 heroFullScreen: false
-#projects:
-#  - icon: project
-#    name: 项目名称
-#    desc: 项目详细描述
-#    link: https://你的项目链接
+projects:
+ - icon: project
+   name: 项目名称
+   desc: 项目详细描述
+   link: https://你的项目链接
 #
 #  - icon: link
 #    name: 链接名称
